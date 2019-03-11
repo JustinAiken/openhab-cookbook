@@ -1,8 +1,6 @@
-#### DEPRECATION NOTICE
+#### Moved!
 
-This should still work for some installs, but I'm no longer actively developing it - I've switched to [Team Docker](https://github.com/JustinAiken/rpi-openhab/) for my personal OpenHAB needs.
-
-I'll still happily merge any PR's, but if anyone wants to take over maintainance of this, I'm happy to hand it over!
+You're looking for https://github.com/pschaumburg/openhab-cookbook 
 
 # openhab-cookbook
 
